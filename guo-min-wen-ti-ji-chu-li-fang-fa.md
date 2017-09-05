@@ -1,130 +1,6 @@
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:宋体;  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-alt:SimSun;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
-@font-face  
-	{font-family:"Cambria Math";  
-	panose-1:2 4 5 3 5 4 6 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-536870145 1107305727 0 0 415 0;}  
-@font-face  
-	{font-family:微软雅黑;  
-	panose-1:2 11 5 3 2 2 4 2 2 4;  
-	mso-font-charset:134;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-2147483001 672087122 22 0 262175 0;}  
-@font-face  
-	{font-family:"\@微软雅黑";  
-	panose-1:2 11 5 3 2 2 4 2 2 4;  
-	mso-font-charset:134;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-2147483001 672087122 22 0 262175 0;}  
-@font-face  
-	{font-family:"\@宋体";  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	mso-pagination:none;  
-	font-size:10.5pt;  
-	mso-bidi-font-size:12.0pt;  
-	font-family:"Times New Roman",serif;  
-	mso-fareast-font-family:宋体;  
-	mso-font-kerning:1.0pt;}  
-h3  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-link:"标题 3 字符";  
-	mso-margin-top-alt:auto;  
-	margin-right:0cm;  
-	mso-margin-bottom-alt:auto;  
-	margin-left:0cm;  
-	mso-pagination:widow-orphan;  
-	mso-outline-level:3;  
-	font-size:13.5pt;  
-	font-family:宋体;  
-	mso-bidi-font-family:宋体;  
-	font-weight:bold;}  
-a:link, span.MsoHyperlink  
-	{mso-style-unhide:no;  
-	color:blue;  
-	text-decoration:underline;  
-	text-underline:single;}  
-a:visited, span.MsoHyperlinkFollowed  
-	{mso-style-noshow:yes;  
-	mso-style-priority:99;  
-	color:\#954F72;  
-	mso-themecolor:followedhyperlink;  
-	text-decoration:underline;  
-	text-underline:single;}  
-p  
-	{mso-style-unhide:no;  
-	mso-margin-top-alt:auto;  
-	margin-right:0cm;  
-	mso-margin-bottom-alt:auto;  
-	margin-left:0cm;  
-	mso-pagination:widow-orphan;  
-	font-size:12.0pt;  
-	font-family:宋体;  
-	mso-bidi-font-family:宋体;}  
-span.3  
-	{mso-style-name:"标题 3 字符";  
-	mso-style-unhide:no;  
-	mso-style-locked:yes;  
-	mso-style-link:"标题 3";  
-	mso-ansi-font-size:13.5pt;  
-	mso-bidi-font-size:13.5pt;  
-	font-family:宋体;  
-	mso-ascii-font-family:宋体;  
-	mso-hansi-font-family:宋体;  
-	mso-bidi-font-family:宋体;  
-	font-weight:bold;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-size:10.0pt;  
-	mso-ansi-font-size:10.0pt;  
-	mso-bidi-font-size:10.0pt;  
-	mso-ascii-font-family:"Times New Roman";  
-	mso-fareast-font-family:宋体;  
-	mso-hansi-font-family:"Times New Roman";  
-	mso-font-kerning:0pt;}  
- /\* Page Definitions \*/  
- @page  
-	{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}  
-@page WordSection1  
-	{size:612.0pt 792.0pt;  
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
-	mso-header-margin:36.0pt;  
-	mso-footer-margin:36.0pt;  
-	mso-paper-source:0;}  
-div.WordSection1  
-	{page:WordSection1;}  
---&gt;  
+# 过敏及常见问题处理
 
 
-过敏及常见问题处理
 
 通过本章学习、您将：
 
@@ -132,57 +8,105 @@ div.WordSection1
 
 2：如何应对一般过敏问题。
 
-前言
+
+
+## 前言
+
+
 
 随着社会快速发展迅速，老百姓接触物的物品越来越多伴随着生活不规律导致对某些物质（如细菌、花粉、食物或药物）、境遇（如精神、情绪激动或曝露阳光）或物理状况（如受冷）所产生的超常的或病理的反应当人体抵抗抗原侵入功能过强时，在过敏原的刺激下就会发生过敏反应。
 
-概述：
 
-过敏症是一种文明病。医学上把过敏（变应性）分为4种不同的种类，并以罗马数字I至IV来命名。其中最常见的是I型和IV型。I型有时也被称为“特应性”或者“速发型变应性”。例如，人体在被[昆虫](https://baike.so.com/doc/2612558-2758588.html)蜇伤后几秒钟就会作出反应，动物毛发过敏和花粉过敏在几分钟内就有反应，食物过敏的时间则在30分钟以内。与此相反，IV型过敏的反应则要慢得多，症状要在一天或者几天之后才会出现。例如装饰物过敏和许多类型的职业过敏等。因此，人们把其称为“迟发型变应性”。过敏 （即变态反应\) 的定义有多种版本，为了阐述这个重要问题和确保医学工作者在一个统一的概念中交流，WAO 推荐使用一套国际统一的定义和术语。在这之前， 欧洲过敏和临床免疫学会曾经出版了&quot；一个修改的[免疫](https://baike.so.com/doc/4987716-5211248.html)定义法&quot；，并推荐使用这套术语（Ref: Johansson et al. Allergy 2001\). 在这个基础上，WAO 再次进行了修改和补充，并建议推广使用这套最新版本 \(Ref: Johansson et al. JACI,2004\).
 
-一：常见过敏的种类与诊断：
+### 概述：
 
-一：花粉过敏：
+
+
+过敏症是一种文明病。医学上把过敏（变应性）分为4种不同的种类，并以罗马数字I至IV来命名。其中最常见的是I型和IV型。I型有时也被称为“特应性”或者“速发型变应性”。例如，人体在被[昆虫](https://baike.so.com/doc/2612558-2758588.html)蜇伤后几秒钟就会作出反应，动物毛发过敏和花粉过敏在几分钟内就有反应，食物过敏的时间则在30分钟以内。与此相反，IV型过敏的反应则要慢得多，症状要在一天或者几天之后才会出现。例如装饰物过敏和许多类型的职业过敏等。因此，人们把其称为“迟发型变应性”。过敏 （即变态反应\) 的定义有多种版本，为了阐述这个重要问题和确保医学工作者在一个统一的概念中交流，WAO 推荐使用一套国际统一的定义和术语。在这之前， 欧洲过敏和临床免疫学会曾经出版了"；一个修改的[免疫](https://baike.so.com/doc/4987716-5211248.html)定义法"；，并推荐使用这套术语（Ref: Johansson et al. Allergy 2001\). 在这个基础上，WAO 再次进行了修改和补充，并建议推广使用这套最新版本 \(Ref: Johansson et al. JACI,2004\).
+
+
+
+#### 一：常见过敏的种类与诊断
+
+
+
+##### 一：花粉过敏：
+
+
 
 目前，全世界的花粉过敏患病率已达到约 5%～ 10%，中国的病人也在逐年增多。以前人们通常都认为春季才是花粉过敏的多发季节，而事实是，夏秋的 8月至 9月才是这种病的真正高发期。
 
-花粉过敏症虽然主要的直接致敏原是花粉，但是和社会环境、生活方式的改变等综合因素都有密切关系。例如药物滥用、[大气污染](https://baike.so.com/doc/4662179-4875638.html)、水质污染及食品添加剂的大量应用，都导致了人体接触更多的抗原物质，此外，感染疾病得到控制也导致变态反应性疾病增多。由于花粉中含有致敏的蛋白成分，所以它一旦被具有过敏体质的人吸入体内，就会引发过敏反应。引起过敏的花粉种类随季节不同，在春季以树木花粉为主，容易引起花粉过敏的多为种子树，以柏、白腊、法国梧桐、臭椿、松、杨、柳、榆等居多，这些植物花粉量大、体积小，空气中含量高，在起风的日子里更容易传播。所以春天郊游时出现花粉过敏者非常多。在夏秋则以蒿草花粉为主。
 
-研究表明，花粉过敏的发病机理为，过敏体质的人机体中含有一种被叫做IgE的[免疫球蛋白](https://baike.so.com/doc/2554332-2697815.html)，花粉与之结合，使肥大细胞脱粒，释放出过敏介质组织胺，而组织胺又能使机体毛细血管通透性增加，引起粘膜水肿、腺体分泌增加及瘙痒。于是对花粉过敏的人就会出现眼、鼻、耳粘膜及皮肤的发痒，过敏性鼻炎的患者表现为打喷嚏、流鼻涕，如过敏发生在支气管粘膜上，病人就会出现哮喘症状。
 
-解决办法：戴口罩，远离花草，如果有轻微打喷嚏眼睛痒等症状可口服抗组胺药，严重者出现呼吸困难等症状者应尽快就医。
+花粉过敏症虽然主要的直接致敏原是花粉，但是和社会环境、生活方式的改变等综合因素都有密切关系。例如药物滥用、大气污染、水质污染及食品添加剂的大量应用，都导致了人体接触更多的抗原物质，此外，感染疾病得到控制也导致变态反应性疾病增多。由于花粉中含有致敏的蛋白成分，所以它一旦被具有过敏体质的人吸入体内，就会引发过敏反应。引起过敏的花粉种类随季节不同，在春季以树木花粉为主，容易引起花粉过敏的多为种子树，以柏、白腊、法国梧桐、臭椿、松、杨、柳、榆等居多，这些植物花粉量大、体积小，空气中含量高，在起风的日子里更容易传播。所以春天郊游时出现花粉过敏者非常多。在夏秋则以蒿草花粉为主。
 
-二：化妆品过敏：
+
+
+研究表明，花粉过敏的发病机理为，过敏体质的人机体中含有一种被叫做IgE的免疫球蛋白，花粉与之结合，使肥大细胞脱粒，释放出过敏介质组织胺，而组织胺又能使机体毛细血管通透性增加，引起粘膜水肿、腺体分泌增加及瘙痒。于是对花粉过敏的人就会出现眼、鼻、耳粘膜及皮肤的发痒，过敏性鼻炎的患者表现为打喷嚏、流鼻涕，如过敏发生在支气管粘膜上，病人就会出现哮喘症状。
+
+
+
+**解决办法**：
+
+戴口罩，远离花草，如果有轻微打喷嚏眼睛痒等症状可口服抗组胺药，严重者出现呼吸困难等症状者应尽快就医。
+
+
+
+##### 二：化妆品过敏：
+
+
 
 化妆品能导致皮肤红、肿、热、痛、起水泡等过敏症。从医学角度讲，如果发现对某种化妆品过敏，最好不用。但生活中有时却又离不开，如中老年人染发和职业女性的淡妆。这时最科学的方法是从根本上改善过敏体质。
 
-解决办法：
+
+
+**解决办法：**
 
 为了防止皮肤过敏，化妆品买回后，先不要直接涂在脸上，必须先做化妆品的皮肤过敏试验，以防止大面积使用 后产生不良后果，确保使用安全。　凡是更换化妆品（护肤品），只要是第一次使用该品牌都应该进行过敏测试，尤其是过敏性肤质的人群，以免造成不必要的后果。
 
-三：空气过敏：
+
+
+##### 三：空气过敏：
+
+
 
 花粉、尘螨、柳絮、冷空气等都会引发过敏性鼻炎，主要症状为连续性喷嚏、大量流清涕、鼻塞、鼻痒、咽痒、外耳道痒等，有的是常年性的，有的是季节性的，发病时鼻甲肿胀、湿润、颜色苍白，表面光滑。
 
-解决方法：
+
+
+**解决方法：**
 
 对应季节做好相应防护,如戴口罩
 
-四：食物过敏：
+
+
+##### 四：食物过敏：
+
+
 
 有些人食用鱼、虾、蟹、蛋、奶等食物或服用某些药物后可发生肠胃道过敏，主要表现为恶心、呕吐、腹泻、腹痛等症状。
 
-解决方法：
+
+
+**解决方法：**
 
 尽快催吐，尽快就医。
 
-五：紫外线过敏：
+
+
+##### **五：紫外线过敏：**
+
+
 
 过敏体质的人在日光下身上会出现红、灼、热、痛，等症状，这便是医学上常说的日光性皮炎即紫外线过敏。
+
+
 
 解决方法：
 
 在太阳下暴晒时尽量选着有防护衣物，如遇轻微
+
+
 
 **二：防治方法：**
 
@@ -202,11 +126,11 @@ div.WordSection1
 
 参考文献：
 
-### 【1】[中华_皮肤科_杂志_文献_](http://www.dxy.cn/bbs/topic/37301859?keywords=%E7%9A%AE%E8%82%A4%E7%A7%91%E6%96%87%E7%8C%AE)
+### 【1】[中华_皮肤科_杂志_文献_](http://www.dxy.cn/bbs/topic/37301859?keywords=皮肤科文献)
 
 ### 【2】最新皮肤科药物手册（第2版） 作者：马振友 著
 
 ### 【3】实用皮肤科查房·会诊作者：李萍，李久宏
 
- K�\|-��:�
+K�\|-��:�
 
