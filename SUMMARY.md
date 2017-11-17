@@ -10,4 +10,5 @@
 * [休克和昏迷](xiu-ke-he-hun-mi.md)
 * [灾害现场评估](zai-hai-xian-chang-ping-gu.md)
 * [神经科急症](shen-jing-ke-ji-zheng.md)
+* [消化系统疾病](xiao-hua-xi-tong-ji-bing.md)
 
