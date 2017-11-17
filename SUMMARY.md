@@ -17,4 +17,5 @@
 * [冻伤](dong-shang.md)
 * [孕妇急救](yun-fu-ji-jiu.md)
 * [烧伤烫伤](shao-shang-tang-shang.md)
+* [腹部创伤](fu-bu-chuang-shang.md)
 
