@@ -16,5 +16,5 @@
 * [呼吸道急症](hu-xi-dao-ji-zheng.md)
 * [冻伤](dong-shang.md)
 * [孕妇急救](yun-fu-ji-jiu.md)
-* 烧伤烫伤
+* [烧伤烫伤](shao-shang-tang-shang.md)
 
