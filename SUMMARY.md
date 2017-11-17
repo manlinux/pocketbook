@@ -8,4 +8,5 @@
 * [枪弹伤与爆炸伤](qiang-dan-shang-yu-bao-zha-shang.md)
 * [脊柱损伤的应急处置](ji-zhu-sun-shang-de-ying-ji-chu-zhi.md)
 * [休克和昏迷](xiu-ke-he-hun-mi.md)
+* [灾害现场评估](zai-hai-xian-chang-ping-gu.md)
 
