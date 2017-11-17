@@ -19,4 +19,5 @@
 * [烧伤烫伤](shao-shang-tang-shang.md)
 * [腹部创伤](fu-bu-chuang-shang.md)
 * [淹溺](yan-ni.md)
+* [止血包扎固定](zhi-xie-bao-zha-gu-ding.md)
 
