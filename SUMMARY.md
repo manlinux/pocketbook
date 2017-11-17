@@ -12,4 +12,5 @@
 * [神经科急症](shen-jing-ke-ji-zheng.md)
 * [消化系统疾病](xiao-hua-xi-tong-ji-bing.md)
 * [泌尿系统损伤](mi-niao-xi-tong-sun-shang.md)
+* [单一施救者的儿童心脏骤停](dan-yi-shi-jiu-zhe-de-er-tong-xin-zang-zou-ting.md)
 
