@@ -2,7 +2,6 @@
 
 * [前言](README.md)
 * [初始评估](chu-shi-ping-gu.md)
-* [气道评估](qi-dao-ping-gu.md)
 * [过敏问题及处理方法](guo-min-wen-ti-ji-chu-li-fang-fa.md)
 * [中暑及处理方法](zhong-shu-ji-chu-li-fang-fa.md)
 * [CPR和AED](cprhe-aed.md)
@@ -24,4 +23,6 @@
 * [触电急救](hong-dian-ji-jiu.md)
 * [口腔外伤](kou-qiang-wai-shang.md)
 * [搬运护送](qi-dao-ping-gu.md)
+* [气道评估](qi-dao-ping-gu.md)
+* [搬运护送](ban-yun-hu-song.md)
 
