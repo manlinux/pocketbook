@@ -23,5 +23,5 @@
 * [止血包扎固定](zhi-xie-bao-zha-gu-ding.md)
 * [触电急救](hong-dian-ji-jiu.md)
 * [口腔外伤](kou-qiang-wai-shang.md)
-* 气道评估
+* [搬运护送](qi-dao-ping-gu.md)
 
