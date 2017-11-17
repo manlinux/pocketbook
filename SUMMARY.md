@@ -21,4 +21,5 @@
 * [淹溺](yan-ni.md)
 * [止血包扎固定](zhi-xie-bao-zha-gu-ding.md)
 * [触电急救](hong-dian-ji-jiu.md)
+* [口腔外伤](kou-qiang-wai-shang.md)
 
