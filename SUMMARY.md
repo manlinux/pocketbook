@@ -25,4 +25,5 @@
 * [搬运护送](ban-yun-hu-song.md)
 * [心理急救](xin-li-ji-jiu.md)
 * [地震](di-zhen.md)
+* [现场捡伤和分类](xian-chang-jian-shang-he-fen-lei.md)
 
