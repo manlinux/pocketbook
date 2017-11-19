@@ -24,4 +24,5 @@
 * [触电急救](hong-dian-ji-jiu.md)
 * [搬运护送](ban-yun-hu-song.md)
 * [心理急救](xin-li-ji-jiu.md)
+* [地 震](di-zhen.md)
 
