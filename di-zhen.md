@@ -1,71 +1,6 @@
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:宋体;  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-alt:SimSun;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
-@font-face  
-	{font-family:"Cambria Math";  
-	panose-1:2 4 5 3 5 4 6 3 2 4;  
-	mso-font-charset:1;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:0 0 0 0 0 0;}  
-@font-face  
-	{font-family:"\@宋体";  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	mso-pagination:none;  
-	font-size:10.5pt;  
-	mso-bidi-font-size:12.0pt;  
-	font-family:"Times New Roman",serif;  
-	mso-fareast-font-family:宋体;  
-	mso-font-kerning:1.0pt;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-size:10.0pt;  
-	mso-ansi-font-size:10.0pt;  
-	mso-bidi-font-size:10.0pt;  
-	mso-ascii-font-family:"Times New Roman";  
-	mso-fareast-font-family:宋体;  
-	mso-hansi-font-family:"Times New Roman";  
-	mso-font-kerning:0pt;}  
- /\* Page Definitions \*/  
- @page  
-	{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}  
-@page WordSection1  
-	{size:595.3pt 841.9pt;  
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
-	mso-header-margin:42.55pt;  
-	mso-footer-margin:49.6pt;  
-	mso-paper-source:0;  
-	layout-grid:15.6pt;}  
-div.WordSection1  
-	{page:WordSection1;}  
---&gt;  
 
 
 **第一节地震**
-
-
 
 一地震对人体的伤害
 
@@ -80,8 +15,6 @@ div.WordSection1
 5．烧烫伤地震导致煤气泄漏、电路损坏、厨房坍塌以及其它易燃易爆物资发生事故，均可酿起次生灾难吗，发生大批或者散在烧烫伤，在地震中也是常见现象。
 
 6．冻伤发生在高山或者寒冷地区的地震灾难，被掩盖的受伤人员没能及时得到挖掘救出、受灾民众避震露营等，防寒条件艰苦，往往出现大批或大面积冻伤。冻伤是寒区地震救援中的重点救援任务之一。
-
-
 
 二现场救护
 
@@ -117,13 +50,9 @@ div.WordSection1
 
 7）脊柱与脊髓伤：现场早期主要是止血及包扎固定，对昏迷伤员注意保暖及呼吸道通畅，小心搬运护送。
 
-
-
 三药品的使用
 
 1）止痛剂：疼痛科诱发或加重休克，给伤员精神上造成很大的痛苦，对无昏迷及瘫痪的伤员，可适当使用止痛药，对血压偏低、颅脑损伤、胸部开放伤、腹腔脏器损伤等应慎用。
 
 2）防治感染：地震灾害中伤员的伤口一般暴露及污染较严重，早期使用抗生素对预防感染有一定的作用，2小时内使用抗生素效果最好，故现场有条件时应尽早使用。破伤风抗毒素也应早期使用，避免发生破伤风。用药时注意询问过敏史，避免发生不良反应。
-
-
 
